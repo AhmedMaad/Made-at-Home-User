@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "663462586670",
+    "project_id": "made-at-home-43879",
+    "storage_bucket": "made-at-home-43879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663462586670:android:0cd4442a616403e7bb32bf",
+        "android_client_info": {
+          "package_name": "com.maad.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663462586670-cvo4rvi04hv0bupr93sc7gigjuvnp5u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_xG3YBephihIx7phJ_WzV9iSiPVr4Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663462586670-cvo4rvi04hv0bupr93sc7gigjuvnp5u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663462586670:android:23c8c74260999fe5bb32bf",
+        "android_client_info": {
+          "package_name": "com.maad.madeathome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663462586670-cvo4rvi04hv0bupr93sc7gigjuvnp5u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_xG3YBephihIx7phJ_WzV9iSiPVr4Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663462586670-cvo4rvi04hv0bupr93sc7gigjuvnp5u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

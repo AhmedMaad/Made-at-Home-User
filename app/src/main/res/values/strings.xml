@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Customer</string>
+    <string name="pottery_one">p t e y</string>
+    <string name="pottery_two"> o t r</string>
+    <string name="carpets_one">c r e s</string>
+    <string name="carpets_two"> a p t </string>
+    <string name="beads_one">b a s</string>
+    <string name="beads_two"> e d </string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="start_shopping">start shopping</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_orders">My Orders</string>
+    <string name="price">Price:</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="address">Address</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="email">Email:</string>
+    <string name="total">Total</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_to_basket">Add to basket</string>
+    <string name="choose_quantity">Quantity has to be > 0</string>
+    <string name="zero">0</string>
+</resources>
